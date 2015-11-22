@@ -1,0 +1,5 @@
+name: BauVirtualXP
+main: com.endcraft.jonasxpx.bauv.BauVirtualXP
+version: 0.5
+commands:
+    bau:
